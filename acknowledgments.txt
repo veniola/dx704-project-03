@@ -1,0 +1,5 @@
+Sources:
+1. Sutton, R. S., & Barto, A. G. (2020). Reinforcement Learning: An Introduction (2nd ed.). http://incompleteideas.net/book/RLbook2020.pdf.
+2. Lattimore, T., & Szepesvári, C. (2020). Bandit Algorithms. Cambridge University Press. https://tor-lattimore.com/downloads/book/book.pdf.
+3. Epsilon Greedy Algorithm. Codefinity. https://codefinity.com/courses/v2/5f9425ad-7012-42d1-9fc0-d5998b1f5fd4/f1175571-cacc-4d64-a64e-a65ab0c9eb88/f11fe0cf-03e0-468f-9381-e79dabac6a9e
+4. Google
